@@ -1,0 +1,154 @@
+{
+	"info": {
+		"_postman_id": "bfabdb1f-710d-4d2d-abba-5895422ced21",
+		"name": "001 Master",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "25178214-bfabdb1f-710d-4d2d-abba-5895422ced21"
+	},
+	"item": [
+		{
+			"name": "001",
+			"id": "6451c7f8-5675-43ae-8dd5-203be029420a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "?key1=value1&key2=value2&key3=value3&key4=value4",
+					"query": [
+						{
+							"key": "key1",
+							"value": "value1"
+						},
+						{
+							"key": "key2",
+							"value": "value2"
+						},
+						{
+							"key": "key3",
+							"value": "value3"
+						},
+						{
+							"key": "key4",
+							"value": "value4"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "002",
+			"id": "0019a385-f106-465f-bb66-19860d281db5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "?key1=value1",
+					"query": [
+						{
+							"key": "key1",
+							"value": "value1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "003",
+			"id": "1d980264-2725-4def-a5cb-f10b9a8e0d9f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "004",
+			"id": "66a29742-928f-4621-98e2-70d590538e3b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "005",
+			"id": "09158be7-9fcf-4b83-9b4f-56f42d8c3f3b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "006",
+			"id": "1a99b2b5-7af5-44cf-bb46-0085f2691e48",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "007",
+			"id": "5d82119a-fa5b-4427-80f4-25606f449af4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "008",
+			"id": "da831d98-f23c-4fd9-b065-6af115f35368",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
