@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "e102be93-5887-4681-afc7-a88e1f3e28d0",
+		"name": "001 Master",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25178214"
+	},
+	"item": [
+		{
+			"name": "001",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "?key1=value1&key2=value2&key3=value3",
+					"query": [
+						{
+							"key": "key1",
+							"value": "value1"
+						},
+						{
+							"key": "key2",
+							"value": "value2"
+						},
+						{
+							"key": "key3",
+							"value": "value3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "002",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "?key1=value1",
+					"query": [
+						{
+							"key": "key1",
+							"value": "value1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "003",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "004",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "005",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "006",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "007",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
